@@ -7,6 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <ListBox x:Name="list_brani" HorizontalAlignment="Left" Height="353" Margin="53,54,0,0" VerticalAlignment="Top" Width="179"/>
+        <TextBox x:Name="titolo" HorizontalAlignment="Left" Height="31" Margin="387,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="autore" HorizontalAlignment="Left" Height="31" Margin="478,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="durata" HorizontalAlignment="Left" Height="31" Margin="569,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86"/>
+        <Label x:Name="brani_listbox" Content="Brani" HorizontalAlignment="Left" Margin="53,17,0,0" VerticalAlignment="Top" Width="179" FontSize="14"/>
+        <Label x:Name="aggiungi_brani" Content="Aggiungi brani" HorizontalAlignment="Left" Margin="387,7,0,0" VerticalAlignment="Top" Width="101" FontSize="14"/>
+        <Label x:Name="aggiungi_brani_Copy" Content="titolo" HorizontalAlignment="Left" Margin="387,36,0,0" VerticalAlignment="Top" Width="86" FontSize="14" Height="28"/>
+        <Label x:Name="autore1" Content="autore" HorizontalAlignment="Left" Margin="478,34,0,0" VerticalAlignment="Top" Width="86" FontSize="14" Height="28"/>
+        <Label x:Name="autore1_Copy" Content="durata" HorizontalAlignment="Left" Margin="569,34,0,0" VerticalAlignment="Top" Width="86" FontSize="14" Height="28"/>
+        <Button x:Name="crea" Content="crea" HorizontalAlignment="Left" Margin="387,115,0,0" VerticalAlignment="Top" Width="268" Height="42"/>
+
     </Grid>
 </Window>
