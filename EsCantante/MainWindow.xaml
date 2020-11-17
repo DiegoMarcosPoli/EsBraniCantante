@@ -16,7 +16,8 @@
         <Label x:Name="aggiungi_brani_Copy" Content="titolo" HorizontalAlignment="Left" Margin="387,36,0,0" VerticalAlignment="Top" Width="86" FontSize="14" Height="28"/>
         <Label x:Name="autore1" Content="autore" HorizontalAlignment="Left" Margin="478,34,0,0" VerticalAlignment="Top" Width="86" FontSize="14" Height="28"/>
         <Label x:Name="autore1_Copy" Content="durata" HorizontalAlignment="Left" Margin="569,34,0,0" VerticalAlignment="Top" Width="86" FontSize="14" Height="28"/>
-        <Button x:Name="crea" Content="crea" HorizontalAlignment="Left" Margin="387,115,0,0" VerticalAlignment="Top" Width="268" Height="42"/>
+        <Button x:Name="crea" Content="crea" HorizontalAlignment="Left" Margin="387,115,0,0" VerticalAlignment="Top" Width="268" Height="42" Click="crea_Click"/>
+        <Button x:Name="btnAlbum" Content="crea Album" HorizontalAlignment="Left" Margin="387,174,0,0" VerticalAlignment="Top" Width="268" Height="48" Click="btnAlbum_Click"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,15 @@
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\bin\Debug\EsCantante.exe.config
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\bin\Debug\EsCantante.exe
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\bin\Debug\EsCantante.pdb
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante.csprojAssemblyReference.cache
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\MainWindow.g.cs
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\App.g.cs
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante_MarkupCompile.cache
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante_MarkupCompile.lref
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\MainWindow.baml
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante.g.resources
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante.Properties.Resources.resources
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante.csproj.GenerateResource.cache
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante.csproj.CoreCompileInputs.cache
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante.exe
+C:\Users\sunki\OneDrive\Documenti\EsCantante\EsCantante\obj\Debug\EsCantante.pdb

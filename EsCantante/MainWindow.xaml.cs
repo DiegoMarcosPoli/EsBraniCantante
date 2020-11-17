@@ -20,9 +20,37 @@ namespace EsCantante
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<Brano> branos;
+        CD album;
         public MainWindow()
         {
             InitializeComponent();
+            branos = new List<Brano>();
+            
+        }
+        public void Riempi()
+        {
+            foreach(Brano b in branos)
+            {
+                list_brani.Items.Add(b);
+            }
+        }
+
+        private void crea_Click(object sender, RoutedEventArgs e)
+        {
+            Brano b = new Brano(titolo.Text, autore.Text, float.Parse(durata.Text));
+            branos.Add(b);
+
+            titolo.Text = ""; 
+            autore.Text = ""; 
+            durata.Text = "";
+        }
+
+        private void btnAlbum_Click(object sender, RoutedEventArgs e)
+        {
+            if(branos.Count>=1)
+                album = new CD("eskere", "lil pump", branos);
+            Riempi();
         }
     }
 }
